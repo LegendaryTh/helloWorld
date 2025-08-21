@@ -16,4 +16,4 @@ Meu nome é André, e estou iniciando minha jornada na programação. Sou formad
 - Git e GitHub
 
 # Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/andre-victor-luiz-dev/)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-victor-luiz-dev/)
